@@ -4,12 +4,12 @@ This repository contains the system architecture, requirements engineering, and 
 Dental Clinic Management System. It was designed to digitize clinic operations, reduce scheduling conflicts, and improve the experience
 for staff and patients.
 
-## 👥 Team & Roles
+## Team & Roles
 This project was a collaborative effort by Saina Pourjafari and Niloofar Asoubar:
 * **System Analysis, Agile Management & Architecture:** Niloofar Asoubar
 * **UI Design & Frontend Prototype:** Saina Pourjafari
 
-## 🛠 My Contributions: System Architecture & Agile Workflow
+## My Contributions: System Architecture & Agile Workflow
 My primary focus was managing the software development lifecycle, extracting business needs, and designing the system architecture.
 Showing full-stack competency means understanding the product before writing the code, which I achieved by:
 * Defining 72 functional requirements, including role-specific workflows for Secretaries, Dentists, Managers, and Patients.
@@ -19,7 +19,7 @@ Showing full-stack competency means understanding the product before writing the
 
 *Note: The complete 19-page System Analysis and Design Document is available in the `/docs` folder of this repository.*
 
-## 📅 Agile Sprint Plan (Epics)
+## Agile Sprint Plan (Epics)
 I structured the product development into the following 8 sprints[cite: 1]:
 1. **Secretary Dashboard:** Patient status management and daily tracking[cite: 1].
 2. **Login & Authentication:** Role-based access control and security[cite: 1].
@@ -30,7 +30,7 @@ I structured the product development into the following 8 sprints[cite: 1]:
 7. **Manager Reports:** Financial tracking and daily analytics[cite: 1].
 8. **Appointment Management:** Advanced time-slot and conflict prevention[cite: 1].
 
-## 💻 The Prototype
+## The Prototype
 Based on the system requirements I gathered, my teammate built a feature-first React prototype demonstrating the core user flows
 across all 8 epics[cite: 1]. Data is mocked in React state to simulate a live database connection for presentation purposes.
 
