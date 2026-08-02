@@ -39,6 +39,7 @@ To run the frontend prototype locally:
 ```bash
 npm install
 npm run dev
+```
 
 Then open the local URL shown by Vite.
 
