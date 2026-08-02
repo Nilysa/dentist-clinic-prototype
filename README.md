@@ -2,9 +2,7 @@
 
 ![DentOS Secretary Dashboard](./images/secretary-dashboard.png)
 
-This repository contains the system architecture, requirements engineering, and interactive frontend prototype for a comprehensive
-Dental Clinic Management System. It was designed to digitize clinic operations, reduce scheduling conflicts, and improve the experience
-for staff and patients.
+This repository contains the system architecture, requirements engineering, and interactive frontend prototype for a comprehensive Dental Clinic Management System. It was designed to digitize clinic operations, reduce scheduling conflicts, and improve the experience for staff and patients.
 
 ## Team & Roles
 This project was a collaborative effort by Saina Pourjafari and Niloofar Asoubar:
@@ -17,24 +15,23 @@ Showing full-stack competency means understanding the product before writing the
 * Defining 72 functional requirements, including role-specific workflows for Secretaries, Dentists, Managers, and Patients.
 * Establishing 39 non-functional requirements spanning performance, security, usability, and reliability metrics.
 * Managing the project using the Agile Scrum methodology.
-* Authoring 48 user stories and organizing them into Jira Epics across 8 development sprints[cite: 1].
+* Authoring 48 user stories and organizing them into Jira Epics across 8 development sprints.
 
 *Note: The complete 19-page System Analysis and Design Document is available in the `/docs` folder of this repository.*
 
 ## Agile Sprint Plan (Epics)
-I structured the product development into the following 8 sprints[cite: 1]:
-1. **Secretary Dashboard:** Patient status management and daily tracking[cite: 1].
-2. **Login & Authentication:** Role-based access control and security[cite: 1].
-3. **Patient Records:** Medical history and condition tracking[cite: 1].
-4. **Patient Portal:** Online registration and appointment booking[cite: 1].
-5. **Notifications:** Automated SMS and email reminders[cite: 1].
-6. **Doctor Panel:** Treatment recording and prescription management[cite: 1].
-7. **Manager Reports:** Financial tracking and daily analytics[cite: 1].
-8. **Appointment Management:** Advanced time-slot and conflict prevention[cite: 1].
+I structured the product development into the following 8 sprints:
+1. **Secretary Dashboard:** Patient status management and daily tracking.
+2. **Login & Authentication:** Role-based access control and security.
+3. **Patient Records:** Medical history and condition tracking.
+4. **Patient Portal:** Online registration and appointment booking.
+5. **Notifications:** Automated SMS and email reminders.
+6. **Doctor Panel:** Treatment recording and prescription management.
+7. **Manager Reports:** Financial tracking and daily analytics.
+8. **Appointment Management:** Advanced time-slot and conflict prevention.
 
 ## The Prototype
-Based on the system requirements I gathered, my teammate built a feature-first React prototype demonstrating the core user flows
-across all 8 epics[cite: 1]. Data is mocked in React state to simulate a live database connection for presentation purposes.
+Based on the system requirements I gathered, my teammate built a feature-first React prototype demonstrating the core user flows across all 8 epics. Data is mocked in React state to simulate a live database connection for presentation purposes.
 
 ### Quick Start
 To run the frontend prototype locally:
