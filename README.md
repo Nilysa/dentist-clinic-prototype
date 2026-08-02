@@ -1,5 +1,7 @@
 # DentOS: Dental Clinic Management System
 
+![DentOS Secretary Dashboard](./images/secretary-dashboard.png)
+
 This repository contains the system architecture, requirements engineering, and interactive frontend prototype for a comprehensive
 Dental Clinic Management System. It was designed to digitize clinic operations, reduce scheduling conflicts, and improve the experience
 for staff and patients.
